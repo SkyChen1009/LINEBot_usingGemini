@@ -1,6 +1,7 @@
 # LINE Bot with Google Cloud Functions, Gemini API and Firebase
 
 This project is a LINE Bot deployed on Google Cloud Functions, leveraging Firebase for storing chat history and Google Gemini AI for generating responses. The bot handles text interactions, saves chat history in Firebase, and uses the Gemini model for AI-generated replies.
+
 ![image](https://github.com/user-attachments/assets/e3cf5347-b4f4-4983-af2d-89e2fadb3b46)
 
 ## Project Structure
