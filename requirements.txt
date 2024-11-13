@@ -1,0 +1,6 @@
+# package>=version
+
+line-bot-sdk
+requests
+git+https://github.com/ozgur/python-firebase
+google.generativeai
